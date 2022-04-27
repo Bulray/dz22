@@ -2,7 +2,7 @@ import json
 from random import shuffle
 from os.path import isfile
 
-QUESTIONS_FILE_NAME = 'questions.json'
+QUESTIONS_FILE_NAME = '../questions.json'
 question_num = 0
 
 
