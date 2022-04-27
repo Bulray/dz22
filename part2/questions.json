@@ -1,0 +1,27 @@
+[
+  {
+        "answers": ["seven", "7"],
+        "author": "edsys.in",
+        "difficulty": "1",
+        "text": "How many days do we have in a week?",
+        "topic": "general"
+    }, {
+        "answers": ["seven", "7"],
+        "author": "edsys.in",
+        "difficulty": "1",
+        "text": "How many colors are there in a rainbow?",
+        "topic": "geography"
+    }, {
+        "answers": "Blue whale",
+        "author": "edsys.in",
+        "difficulty": "1",
+        "text": "Which is the largest animal in the world?",
+        "topic": "biology"
+    }, {
+        "answers": "ostrich",
+        "author": "edsys.in",
+        "difficulty": "2",
+        "text": " What type of bird lays the largest eggs",
+        "topic": "biology"
+    }
+]
